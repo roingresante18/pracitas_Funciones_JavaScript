@@ -14,30 +14,30 @@
 // }
 //  numero(1,10);
 
-// // ------------------------------------------------------------------------------------------------------
-// // ------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------
 
-// // -------------  -           -   --      -      -----  --------      ------       --       -   
-// //       --       -           -   - -     -    -            -        -       -     - -      - 
-// //       --       -           -   -  -    -   -             -      -          -    -  -     - 
-// //    --------     -         -    -   -   -  -              -     -            -   -   -    - 
-// //       --        -         -    -    -  -   -             -      -          -    -    -   - 
-// //       --         -       -     -     - -    -            -        -       -     -     -  - 
-// //       --          -------      -      --      ------  -------      ------       -      --- 
+// -------------  -           -   --      -      -----  --------      ------       --       -   
+//       --       -           -   - -     -    -            -        -       -     - -      - 
+//       --       -           -   -  -    -   -             -      -          -    -  -     - 
+//    --------     -         -    -   -   -  -              -     -            -   -   -    - 
+//       --        -         -    -    -  -   -             -      -          -    -    -   - 
+//       --         -       -     -     - -    -            -        -       -     -     -  - 
+//       --          -------      -      --      ------  -------      ------       -      --- 
 
-// // ------------------------------------------------------------------------------------------------------
-// // ------------------------------------------------------------------------------------------------------
-// // EJERCICIO 1_____________________________________________________________
-// //       Escribir el encabezado de las funciones apropiadas para resolver los siguientes problemas.
-// //       Identificar, para cada función, cuáles son los parámetros, cuál es el tipo de cada parámetro y
-// //       cuál es el tipo de retorno.
-// //       a. Dados dos enteros, calcular su suma.
-// //       b. Dados dos enteros, decir si son iguales.
-// //       c. Ingresar tres parámetros por teclado y pasarlos como argumentos a una
-// //       función que devolverá el menor de ellos
-// //       d. Dados 3 enteros, calcular el promedio de los tres.
+// ------------------------------------------------------------------------------------------------------
+// ------------------------------------------------------------------------------------------------------
+// EJERCICIO 1_____________________________________________________________
+//       Escribir el encabezado de las funciones apropiadas para resolver los siguientes problemas.
+//       Identificar, para cada función, cuáles son los parámetros, cuál es el tipo de cada parámetro y
+//       cuál es el tipo de retorno.
+//       a. Dados dos enteros, calcular su suma.
+//       b. Dados dos enteros, decir si son iguales.
+//       c. Ingresar tres parámetros por teclado y pasarlos como argumentos a una
+//       función que devolverá el menor de ellos
+//       d. Dados 3 enteros, calcular el promedio de los tres.
 
-// //       a. Dados dos enteros, calcular su suma.
+//       a. Dados dos enteros, calcular su suma.
 // function sumar_y_mostrar(num) { 
    
 //    resultado = (num + num);
